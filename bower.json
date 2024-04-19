@@ -1,0 +1,8 @@
+{
+  "name": "eml-format",
+  "version": "1.0.0",
+  "description": "A library for parsing EML (email) files.",
+  "main": ["lib/eml-format.js"],
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
+  "dependencies": {}
+}
